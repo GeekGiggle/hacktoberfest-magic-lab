@@ -1,1 +1,4 @@
-This repo contains 6 small but meaningful projects (3 JS + 3 Python) where contributors can add constellations, palettes, runes, GIF presets, etc. Each PR should add one item.
+🎉 Welcome to Hacktoberfest 2025!
+
+Thanks for showing interest in contributing to this repository.
+We encourage meaningful pull requests (PRs) — spammy or low-quality PRs will be marked invalid and won’t count for Hacktoberfest.

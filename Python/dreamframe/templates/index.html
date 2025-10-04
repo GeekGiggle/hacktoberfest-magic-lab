@@ -1,0 +1,15 @@
+<!doctype html>
+<html>
+<head><meta charset="utf-8"><title>DreamFrame</title></head>
+<body style="font-family:sans-serif; padding:20px;">
+  <h1>DreamFrame — make GIFs</h1>
+  <form method="post" enctype="multipart/form-data">
+    <label>Choose images (multiple):</label><br/>
+    <input type="file" name="images" multiple accept="image/*" /><br/><br/>
+    <label>Frame duration (ms):</label>
+    <input type="number" name="duration" value="200" /><br/><br/>
+    <button type="submit">Create GIF</button>
+  </form>
+  <p>Contribute: add a progress indicator or a preset (e.g., 'dreamy', 'fast', ...)</p>
+</body>
+</html>
